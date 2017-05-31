@@ -1,2 +1,2 @@
 # hello-world
-Just started
+Just want to say that I'm amazing!
